@@ -1,4 +1,7 @@
 # Gary05CX
+---
+## I love [湊あくあ](https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg)
+***
 ***
 ## I am
 - Hong Konger
@@ -13,3 +16,5 @@
 	- [Visual Studio Code](https://code.visualstudio.com/)
 - Language:
 	- Japanese
+***
+***
