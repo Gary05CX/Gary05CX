@@ -14,7 +14,5 @@
 - Programming Language / Tools:
 	- [Python](https://www.python.org/)
 	- [Visual Studio Code](https://code.visualstudio.com/)
-- Language:
-	- Japanese
 ***
 ***
