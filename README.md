@@ -1,7 +1,7 @@
 # Gary05CX
 ---
 ## About Me
-- Living in HK
+- Living in HK but using JST on PC
 - Streaming on Twitch or Youtube sometime
 ---
 ### Language
